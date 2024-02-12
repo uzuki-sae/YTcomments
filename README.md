@@ -5,6 +5,6 @@
 ｜実装:python
 ｜機材：MacBook Air
 ｜データ：Youtube API
-｜インプット：
+｜インプット：動画ID
 ｜アウトプット：コメントのCSV
 ｜方法：APIに接続し、responseをjsonから整形、不要な情報を削減し、CSVで書き込む
